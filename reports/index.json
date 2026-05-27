@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-210658-vtra",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-27T01:06:58.000Z",
+      "dateEnd": "2026-05-27T02:06:39.000Z",
+      "dateLabel": "26/5/2026, 9:06:58 p.m. - 26/5/2026, 10:06:39 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260526-210658-vtra",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260526-231420-b5xj",
       "title": "Áranea, Lyralue, Shio Nnevi",
       "commanders": [
