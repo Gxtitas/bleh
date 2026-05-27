@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-231420-b5xj",
+      "title": "Áranea, Lyralue, Shio Nnevi",
+      "commanders": [
+        "Áranea",
+        "Lyralue",
+        "Shio Nnevi"
+      ],
+      "dateStart": "2026-05-27T03:14:20.000Z",
+      "dateEnd": "2026-05-27T03:56:46.000Z",
+      "dateLabel": "26/5/2026, 11:14:20 p.m. - 26/5/2026, 11:56:46 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260526-231420-b5xj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260523-003604-x285",
       "title": "In The Tournament, Lyralue",
       "commanders": [
