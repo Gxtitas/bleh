@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-221715-hy70",
+      "title": "Stay Smol",
+      "commanders": [
+        "Stay Smol"
+      ],
+      "dateStart": "2026-05-28T02:17:15.000Z",
+      "dateEnd": "2026-05-28T03:07:25.000Z",
+      "dateLabel": "27/5/2026, 10:17:15 p.m. - 27/5/2026, 11:07:25 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260527-221715-hy70",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260526-210658-pg34",
       "title": "Gear Check For Bads",
       "commanders": [
