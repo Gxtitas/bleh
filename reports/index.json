@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-221858-fswy",
+      "title": "Shayngo Fett",
+      "commanders": [
+        "Shayngo Fett"
+      ],
+      "dateStart": "2026-06-05T02:18:58.000Z",
+      "dateEnd": "2026-06-05T03:05:53.000Z",
+      "dateLabel": "4/6/2026, 10:18:58 p.m. - 4/6/2026, 11:05:53 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260604-221858-fswy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260602-231121-h7q1",
       "title": "Lyralue",
       "commanders": [
