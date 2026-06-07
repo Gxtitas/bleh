@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-232341-7c1m",
+      "title": "Zero Ignition",
+      "commanders": [
+        "Zero Ignition"
+      ],
+      "dateStart": "2026-06-07T03:23:41.000Z",
+      "dateEnd": "2026-06-07T04:02:23.000Z",
+      "dateLabel": "6/6/2026, 11:23:41 p.m. - 7/6/2026, 12:02:23 a.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260606-232341-7c1m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260604-221858-fswy",
       "title": "Shayngo Fett",
       "commanders": [
