@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-231008-499k",
+      "title": "Aethervoice, Zero Ignition",
+      "commanders": [
+        "Aethervoice",
+        "Zero Ignition"
+      ],
+      "dateStart": "2026-06-10T03:10:08.000Z",
+      "dateEnd": "2026-06-10T04:18:17.000Z",
+      "dateLabel": "9/6/2026, 11:10:08 p.m. - 10/6/2026, 12:18:17 a.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260609-231008-499k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260609-220922-ot1m",
       "title": "General Wagwan",
       "commanders": [
