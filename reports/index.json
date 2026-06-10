@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-220922-ot1m",
+      "title": "General Wagwan",
+      "commanders": [
+        "General Wagwan"
+      ],
+      "dateStart": "2026-06-10T02:09:22.000Z",
+      "dateEnd": "2026-06-10T03:00:19.000Z",
+      "dateLabel": "9/6/2026, 10:09:22 p.m. - 9/6/2026, 11:00:19 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260609-220922-ot1m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260606-232341-7c1m",
       "title": "Zero Ignition",
       "commanders": [
