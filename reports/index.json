@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-230523-vvm1",
+      "title": "Wàr Criminál",
+      "commanders": [
+        "Wàr Criminál"
+      ],
+      "dateStart": "2026-06-14T03:05:23.000Z",
+      "dateEnd": "2026-06-14T04:00:58.000Z",
+      "dateLabel": "13/6/2026, 11:05:23 p.m. - 14/6/2026, 12:00:58 a.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260613-230523-vvm1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260610-221532-fh9a",
       "title": "Stay Smol",
       "commanders": [
