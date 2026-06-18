@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-214730-gzpg",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-18T01:47:30.000Z",
+      "dateEnd": "2026-06-18T02:31:40.000Z",
+      "dateLabel": "17/6/2026, 9:47:30 p.m. - 17/6/2026, 10:31:40 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260617-214730-gzpg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260613-230523-vvm1",
       "title": "Wàr Criminál",
       "commanders": [
