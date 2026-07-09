@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-211103-s0oa",
+      "title": "R E Slovalk",
+      "commanders": [
+        "R E Slovalk"
+      ],
+      "dateStart": "2026-07-09T01:11:03.000Z",
+      "dateEnd": "2026-07-09T01:40:42.000Z",
+      "dateLabel": "8/7/2026, 9:11:03 p.m. - 8/7/2026, 9:40:42 p.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20260708-211103-s0oa",
+      "summary": {
+        "borderlandsPct": 0.5362318840579711,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260618-221218-vgu8",
       "title": "Greetings Gamers",
       "commanders": [
