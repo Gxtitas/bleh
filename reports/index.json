@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261025-000945-jtk3",
+      "title": "Stay Smol",
+      "commanders": [
+        "Stay Smol"
+      ],
+      "guild": {
+        "id": "E2D2E888-B360-EF11-8467-122223FBD123",
+        "name": "Final Voyage",
+        "tag": "end"
+      },
+      "dateStart": "2026-10-25T03:09:45.000Z",
+      "dateEnd": "2026-10-25T03:52:14.954Z",
+      "dateLabel": "25/10/2026, 12:09:45 a.m. - 25/10/2026, 12:52:14 a.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20261025-000945-jtk3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260708-211103-s0oa",
       "title": "R E Slovalk",
       "commanders": [
