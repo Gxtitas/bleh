@@ -1,8 +1,42 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.10"
+  },
   "entries": [
+    {
+      "id": "20261101-000913-yhqk",
+      "title": "Supcalus",
+      "commanders": [
+        "Supcalus"
+      ],
+      "guild": {
+        "id": "E2D2E888-B360-EF11-8467-122223FBD123",
+        "name": "Final Voyage",
+        "tag": "end"
+      },
+      "dateStart": "2026-11-01T03:09:13.000Z",
+      "dateEnd": "2026-11-01T04:03:19.409Z",
+      "dateLabel": "1/11/2026, 12:09:13 a.m. - 1/11/2026, 1:03:19 a.m.",
+      "url": "https://Gxtitas.github.io/bleh/?report=20261101-000913-yhqk",
+      "publishedBy": "Gxtitas",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
     {
       "id": "20261025-000945-jtk3",
       "title": "Stay Smol",
